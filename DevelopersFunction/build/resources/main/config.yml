@@ -1,0 +1,5 @@
+settings:
+  lightcheck-radius: 16
+  lightcheck-duration-seconds: 30
+  nearentity-radius: 16
+  clearitem-confirm-seconds: 30

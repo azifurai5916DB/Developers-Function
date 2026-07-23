@@ -1,0 +1,10 @@
+name: DevelopersFunction
+version: 1.0.0
+main: com.developersfunction.df.DevelopersFunctionPlugin
+api-version: '1.21'
+author: azifurai5916
+description: Operation and developer utility plugin for Paper.
+commands:
+  df:
+    description: Developers Function main command.
+    usage: /df help
